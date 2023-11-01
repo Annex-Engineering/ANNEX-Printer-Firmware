@@ -11,7 +11,7 @@ Some of these features were rejected for integration into mainline Klipper for a
 ### More Information:
 More information can be found on their repository here: [Danger Klipper](https://github.com/DangerKlippers/danger-klipper)
 
-Their discord support group can be found here: 
+Their discord support group can be found here:  
 [![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
 
 To begin using Danger Klipper, start here: [Installation Guide](https://DangerKlippers.github.io/danger-klipper/Installation.html)
